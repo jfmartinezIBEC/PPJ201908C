@@ -1,0 +1,20 @@
+// Ejercicio1 - Convertir texto a  número
+
+var x=prompt('Ingrese un numero para X: '); //
+var y=prompt("Ingrese un numero para Y: "); //
+
+var numerox=parseInt(x); // parse int Entero
+var numeroy=parseFloat(y) //para numeroscon Decimales y Reales
+console.log('Prueba de Escritorio: ');
+document.write('Prueba de Escritorio: ');
+
+console.log('X: '+x);
+document.write('X: '+x);
+console.log('Y: '+y);
+document.write('Y: '+y);
+
+console.log('numero X: '+numerox);
+document.write('numero X: '+numerox);
+
+console.log('numero Y: '+numeroy);
+document.write('numero Y: '+numeroy);
